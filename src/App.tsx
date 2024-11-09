@@ -1,6 +1,6 @@
 import "./App.css";
 import { Button } from "primereact/button";
-import "primereact/resources/themes/lara-light-indigo/theme.css";
+import "primereact/resources/themes/bootstrap4-light-blue/theme.css";
 import "primereact/resources/primereact.min.css";
 
 export default function App() {
